@@ -63,7 +63,10 @@ textarea {
     text-align: center;
 }
 
-
+#tetrapage img {
+    width: 640px;
+    height: 320px;
+}
 
 
 
