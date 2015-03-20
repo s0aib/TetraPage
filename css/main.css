@@ -104,6 +104,7 @@ textarea {
 #mc_embed_signup input.email {
     position: relative;
     left: 20.5%;
+    text-align: center;
 }
 
 #mc_embed_signup input.button {
