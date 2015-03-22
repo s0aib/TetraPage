@@ -1,0 +1,7 @@
+TO DO List:
+
+Add a blog page.
+
+Add a survey page where we can ask questions and record statistical data.
+
+Fix all the html pages. 
